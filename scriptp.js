@@ -1,12 +1,19 @@
 function checkPassword(){
-    let password=document.getElementById("password").value;
-    let correctPassword="Adityagay";
+
+    let password = document.getElementById("password").value;
+
+    let correctPassword = "Adityagay";
+
     if(password === correctPassword){
-        window.location.href="server.html";
+
+        window.location.href = "server.html";
+
     }
+
     else{
 
-        document.getElementById("message").innerHTML = "Wrong Password";
+        alert("Wrong Password");
 
     }
+
 }

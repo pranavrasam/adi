@@ -1,0 +1,63 @@
+body {
+    background-color: darkblue;
+    text-align: center;
+    font-family: Arial;
+}
+.side{
+    width: 400px;
+    height: 800px;
+    background-color: blue;
+    margin: 45px ;
+    border-color: whitesmoke;
+    border-width: 10px;
+    border-style: solid;
+    text-align: center;
+    font-size: xx-large;
+    color: yellow
+}
+.side > p{
+    color: peachpuff;
+    font-size: 20px;
+}
+.box{
+    width: 2000px;
+    height: 230px;
+    background-color: blue;
+    margin: 20px auto;
+    border-color: whitesmoke;
+    border-width: 10px;
+    border-style: solid;
+}
+p{
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 100px;
+}
+button{
+       padding: 14px 20px;
+    font-size: 50px;
+    margin: 60px;
+    border-color:gold;
+    border-width: 5px;
+    border-style: solid;
+}
+.confirm {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 0px;
+    background-color: gold;
+    border-color: ghostwhite
+}
+
+
+        img{
+
+            width:150px;
+
+            margin:5px;
+
+        }

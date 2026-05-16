@@ -1,0 +1,23 @@
+h1{
+    color: yellow;
+    font-size: 100px;
+    text-align: center;
+}
+.con{
+        color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+.re{
+           color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+     background-color: blue;
+}

@@ -10,7 +10,7 @@ function spamPhoto2() {
 
     let video = document.createElement("video");
 
-    video.src = "video2.mp4";
+    video.src = "video5.mp4";
 
     video.width = 300;
 

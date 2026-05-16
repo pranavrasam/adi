@@ -2,7 +2,7 @@ function checkPassword(){
 
     let password = document.getElementById("password").value;
 
-    let correctPassword = "Adityagay";
+    let correctPassword = "teatotalers";
 
     if(password === correctPassword){
 
